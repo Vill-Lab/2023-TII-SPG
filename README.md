@@ -13,7 +13,7 @@ python train.py --cfg configs/cuhk_sysu.yaml
 
 ## Evaluation
 ```
-python train.py --eval --ckpt [YOUR_CKPT_PATH]
+python train.py --eval --ckpt path_to_ckpt
 ```
 
 ## Citation
