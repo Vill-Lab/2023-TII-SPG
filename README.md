@@ -15,3 +15,14 @@ python train.py --cfg configs/cuhk_sysu.yaml
 ```
 python train.py --eval --ckpt [YOUR_CKPT_PATH]
 ```
+
+## Citation
+```
+@article{song2023learning,
+  title={Learning Scene-Pedestrian Graph for End-to-End Person Search},
+  author={Song, Zifan and Zhao, Cairong and Hu, Guosheng and Miao, Duoqian},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2023},
+  publisher={IEEE}
+}
+```
